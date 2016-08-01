@@ -1,0 +1,24 @@
+{
+  "name": "sample-air-quality",
+  "version": "1.0.0",
+  "description": "Devify sample: send air quality data to devify server.",
+  "keywords": [
+    "iot"
+  ],
+  "author": "jollen <jollen@jollen.org> (http://jollen.org/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevifyPlatform/sample-air-quality.git"
+  },
+  "homepage": "https://github.com/DevifyPlatform/sample-air-quality.git",
+  "dependencies": {
+    "devify-server": "*"
+  },
+  "scripts": {
+    "test": "make test",
+    "start": "node ./server.js"
+  },
+  "devDependencies": {
+  },
+  "license": "MIT License"
+}
