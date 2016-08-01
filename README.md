@@ -170,6 +170,6 @@ This chapter explains two different programming models.
 
 Flowchain opensource project brings the vision of **A new way to write IoT application server code**. For better IoT programming with flow-based paradigm, please read [Flowchain](https://github.com/flowchain/flowchain). 
 
-## Next Chapter
+## License
 
-* [101-air-quality-sensor-text-messaging-twilio](../101-air-quality-sensor-text-messaging-twilio)
+MIT
